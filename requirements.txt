@@ -1,0 +1,9 @@
+fastapi==0.100.0
+librosa==0.10.0.post2
+numpy==1.22.3
+pandas==1.4.4
+parselmouth==1.1.1
+scipy==1.11.1
+starlette==0.28.0
+torch==1.13.1
+torchaudio==0.13.1
